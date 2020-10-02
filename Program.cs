@@ -19,6 +19,7 @@ namespace MediaAritmetica
             Console.WriteLine($"Média: {media}");
             Console.Write("Pressione qualquer tecla para sair");
             Console.ReadKey();
+            
         }
     }
 }

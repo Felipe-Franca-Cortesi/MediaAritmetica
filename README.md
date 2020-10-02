@@ -1,5 +1,5 @@
 # MediaAritmetica
-[console: MediaAritmetica] Calcule a média aritmética entre 3 números reais digitados pelo usuário.
+*[console: MediaAritmetica] Calcule a média aritmética entre 3 números reais digitados pelo usuário.*
 
 `Média Aritmética de 3 números` 
 
